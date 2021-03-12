@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Favorite language
+
 <img src=https://img.shields.io/badge/-javascript-red><img src=https://img.shields.io/badge/-python-blue>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjddnjs33&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
