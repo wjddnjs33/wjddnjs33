@@ -1,4 +1,4 @@
-# ** Introduce 🙂**
+# **Introduce 🙂**
 
 I’m a person studying about web security in Korea and currently a newbie :) And I think so. If you want to get what you want, you have to throw away what you want
 
