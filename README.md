@@ -1,3 +1,6 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fpocas.kr&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=pocas.kr&edge_flat=false)](https://hits.seeyoufarm.com)
+
+---
 # **Introduce 🙂**
 
 I’m a person studying about web security in Korea and currently a newbie :) And I think so. If you want to get what you want, you have to throw away what you want
