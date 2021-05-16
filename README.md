@@ -5,8 +5,8 @@ I’m a person studying about web security in Korea.
 ---
 # **Contact 💻**
  - Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jeongwon Jo (pocas)
- - Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;whwjddnjs142@gmail.com
- - Open Talk&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://open.kakao.com/me/pocas](https://open.kakao.com/me/pocas)
+ - Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;whwjddnjs142@gmail.com
+ - Open Talk&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://open.kakao.com/me/pocas](https://open.kakao.com/me/pocas)
  - Tistory&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://p00y.tistory.com](https://p00y.tistory.com)
 
 ---
