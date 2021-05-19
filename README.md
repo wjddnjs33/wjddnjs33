@@ -10,13 +10,6 @@ I’m a person studying web security(Cyber Security) in Korea and currently a ne
  - My email is whwjddnjs142@gmail.com
 
 ---
-# **Favorite language 📃**
- -  English
- -  Python
- -  Javascript
- -  php
-
----
 # **Bug Bounty 🎥**
 
 2021
