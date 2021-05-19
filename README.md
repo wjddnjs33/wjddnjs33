@@ -8,7 +8,7 @@ I’m a person studying web security(Cyber Security) in Korea and currently a ne
 ---
 # **Contact 💻**
  - My name is Jeongwon Jo (pocas)
- - My Country is Republic of Korea
+ - My country is Republic of Korea
  - My email is whwjddnjs142@gmail.com
 
 ---
