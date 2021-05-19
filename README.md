@@ -1,7 +1,9 @@
 ---
 # **Introduce 🙂**
 
-I’m a person studying web security(Cyber Security) in Korea and currently a newbie :) And I think so. If you want to get what you want, you have to throw away what you want
+I’m a person studying web security(Cyber Security) in Korea and currently a newbie :)
+
+> I think so. If you want to get what you want, you have to throw away what you want
 
 ---
 # **Contact 💻**
