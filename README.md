@@ -5,9 +5,9 @@ I’m a person studying web security(Cyber Security) in Korea and currently a ne
 
 ---
 # **Contact 💻**
- - Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jeongwon Jo (pocas)
- - Country&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Republic of Korea
- - Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;whwjddnjs142@gmail.com
+ - My name is Jeongwon Jo (pocas)
+ - My Countryis Republic of Korea
+ - My email is whwjddnjs142@gmail.com
 
 ---
 # **Favorite language 📃**
