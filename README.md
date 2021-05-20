@@ -15,10 +15,7 @@ I’m a person studying web security(Cyber Security) in Korea and currently a ne
 # **Bug Bounty 🎥**
 
 2021
-  - Undefined
-  
-2020
-  - Undefined
+  - The xxx is a xxx in Korea. I found the stored xss vulnerabilities at xxx in xxx on may 19th. (During the patch)
 
 ---
 # **CTF Records 🎥**
