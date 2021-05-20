@@ -16,6 +16,9 @@ I’m a person studying web security(Cyber Security) in Korea and currently a ne
 
 2021
   - Undefined
+  
+2020
+  - Undefined
 
 ---
 # **CTF Records 🎥**
