@@ -19,7 +19,6 @@ I’m a person studying web security(Cyber Security) in Korea and currently a ne
 
 ---
 # **Github Energy ⚡**
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjddnjs33&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjddnjs33&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
