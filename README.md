@@ -12,6 +12,3 @@ I’m a person studying web security(Cyber Security) in Korea and currently a ne
   - REDACTED Stored XSS (During the patch)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjddnjs33&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
