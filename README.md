@@ -3,7 +3,8 @@
 
 - 2021
   - [ ] REDACTED Stored XSS (During the patch)
-  - [ ] a
 
+- 2020
+  - [x] www.rms.com Reflected XSS (Patch)
 
 ---
