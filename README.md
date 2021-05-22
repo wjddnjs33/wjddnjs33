@@ -1,7 +1,7 @@
 ---
 # **Introduce 🙂**
 
-I’m a person studying Cyber Security in Korea.
+I'm studying Cyber Security in Korea.
 
 ---
 # **Bug Records 🎥**
