@@ -1,10 +1,7 @@
 ---
 # **Bug Bounty Records 🎥**
 
-- 2021
-  - [ ] REDACTED, Stored XSS (During the patch)
-
-- 2020
-  - [x] www.rms.com, Reflected XSS (Patch)
+- [ ] `REDACTED` Stored XSS on May 20, 2021 (During the patch)
+- [x] `www.rms.com` Reflected XSS on December, 2020 (Patch)
 
 ---
