@@ -15,7 +15,7 @@ I’m a person studying web security(Cyber Security) in Korea and currently a ne
 # **Bug Bounty 🎥**
 
 2021
-  - The xxx is a xxx in Korea. I found the stored xss vulnerabilities at xxx in xxx on may 19, 2021. (During the patch)
+  - REDACTED Stored XSS (During the patch)
 
 ---
 # **Github Energy ⚡**
