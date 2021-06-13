@@ -8,6 +8,6 @@ vuln reporting records
 [saramin.co.kr](https://www.saramin.co.kr/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stored XSS filtering bypass, on May 24, 2021 (Patch)<br>
 [saramin.co.kr](https://www.saramin.co.kr/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Refelcted XSS, on May 24, 2021 (Patch)<br>
 [saramin.co.kr](https://www.saramin.co.kr/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stored XSS, on May 20, 2021 (Patch)<br>
-[rms.com](https://www.rms.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reflected XSS, on December, 2020 (Patch)
+[rms.com](https://www.rms.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reflected XSS, on December, 2020 (Patch)
 
 ---
