@@ -5,6 +5,6 @@ XX University : Reflected XSS and SQL Error Page exposure, on May 24, 2021 (Chec
 saramin.co.kr : Stored XSS filtering bypass, on May 24, 2021 (Patch)<br>
 saramin.co.kr : Refelcted XSS vuln in saramin.co.kr, on May 24, 2021 (Patch)<br>
 saramin.co.kr : Stored XSS, on May 20, 2021 (Patch)<br>
-rms.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Reflected XSS, on December, 2020 (Patch)
+rms.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Reflected XSS, on December, 2020 (Patch)
 
 ---
