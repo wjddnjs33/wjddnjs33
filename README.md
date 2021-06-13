@@ -5,6 +5,6 @@ XX University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reflected XSS and SQL Err
 saramin.co.kr&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stored XSS filtering bypass, on May 24, 2021 (Patch)<br>
 saramin.co.kr&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Refelcted XSS vuln in saramin.co.kr, on May 24, 2021 (Patch)<br>
 saramin.co.kr&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stored XSS, on May 20, 2021 (Patch)<br>
-rms.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Reflected XSS, on December, 2020 (Patch)
+rms.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reflected XSS, on December, 2020 (Patch)
 
 ---
