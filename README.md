@@ -3,7 +3,6 @@ Hi there, My name is Jeongwon Jo(🇰🇷). I’m a newbie studying about web se
 ---
 vuln reporting records
 
-[xxxxxxxxxxxxx](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Stored XSS](#), on June 14, 2021 (Checking)<br>
 [xxxxxxxxxxxxx](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Refelcted XSS](#), on June 14, 2021 (Checking)<br>
 [xxxxxxxxxxxxx](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Open Redirect](#), on June 12, 2021 (Checking)<br>
 [XX University](#)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Reflected XSS and SQL Error Page exposure](#), on May 24, 2021 (Checking)<br>
