@@ -3,7 +3,7 @@ Hi there, My name is Jeongwon Jo(🇰🇷). I’m a newbie studying about web se
 ---
 |Target|Vulnerability|Date|State|
 |------|---|---|----|
-|REDACTED|[Stored XSS](#)|June 14, 2021|Checking|
+|Samsung SDS Support Portal|[Stored XSS](#)|June 14, 2021|Duplicate|
 |REDACTED|[Refelcted XSS](#)|June 14, 2021|Checking|
 |REDACTED|[Open Redirect](#)|June 12, 2021|Checking|
 |REDACTED|[Reflected XSS](#)|May 24, 2021|Checking|
