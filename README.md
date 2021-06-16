@@ -1,8 +1,8 @@
 Hi there, My name is Jeongwon Jo(🇰🇷). I’m a newbie studying about web security and English in Korea. And sometimes I join in CTF or Bug Hunting. Also, my hobbies are mainly playing game or listening to songs.
 
 ---
-|Target|Vulnerability|Date|State
-|------|---|---|
+|Target|Vulnerability|Date|State|
+|------|---|---|----|
 |REDACTED|[Refelcted XSS](#)|June 14, 2021|Checking|
 |REDACTED|[Open Redirect](#)|June 12, 2021|Checking|
 |REDACTED|[Reflected XSS](#)|May 24, 2021|Checking|
