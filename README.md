@@ -1,4 +1,4 @@
-Hi there, My name is Jeongwon Jo(🇰🇷). I’m a newbie studying about web security and English in Korea. And sometimes I join in CTF or Bug Hunting. Also, my hobbies are mainly playing game or listening to songs.
+Hi there, My name is Jeongwon Jo. I’m a newbie studying about web security and English in Korea. And sometimes I join in CTF or Bug Hunting. Also, my hobbies are mainly playing game or listening to songs.
 
 ---
 |Target|Vulnerability|Date|State|
