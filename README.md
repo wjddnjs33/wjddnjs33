@@ -2,7 +2,7 @@ Hi there, My name is Jeongwon Jo. I'm a newbie studying about web security and E
 
 ---
 |Target|Vulnerability|Date|State|Platform|Field|
-|------|---|---|----|---|---|---|
+|------|---|---|----|---|---| 
 |Samsung SDS Support Portal|[Stored XSS](#)|June 14, 2021|Duplicate|Hackingzone|Web|
 |REDACTED|[Refelcted XSS](#)|June 14, 2021|Checking|None|Web|
 |REDACTED|[Open Redirect](#)|June 12, 2021|Checking|Hackerone|Web|
