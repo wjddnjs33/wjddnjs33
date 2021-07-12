@@ -1,4 +1,4 @@
-Hi there, My name is Jeongwon Jo. I'm a newbie studying about Web(Security) and English in Korea. And I sometimes join in CTF or Bug Hunting.
+Hi there, My name is Jeongwon Jo(Pocas). I'm a newbie studying about web security/development and english in Seoul, Republic of Korea. And I sometimes do CTF or Bug Hunting. And Recently I am studying development. Web development uses only node.js, flask, django web frameworks to develop back-end.
 
 ---
 |Field|Target|Vulnerability|Date|State|Platform|
