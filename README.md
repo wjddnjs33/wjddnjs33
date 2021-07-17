@@ -7,10 +7,10 @@ Hi there, My name is Jeongwon Jo(Pocas). I'm a newbie studying about web securit
 # Just reported things.
 
 ```
-HackerOne Meredith #1224657 Open Redirect to Reflected XSS Resolve (Jeongwon Jo)
-REDACTED REDACTED #13166 Stored XSS Duplicates Fucking (Jeongwon Jo)
-REDACTED National University #None Reflected XSS Resolve (Jeongwon Jo)
-HackerOne RMS #None Reflected XSS Resolve (Jeongwon Jo)
+HackerOne Meredith #1224657 Open Redirect to Reflected XSS Resolve -Foreign- (Jeongwon Jo)
+HackingZone Samsung SDS Sepport Potal #13166 Stored XSS Duplicates Fucking -Korea- (Jeongwon Jo)
+Gyeongsang National University University #None Reflected XSS Resolve -Korea- (Jeongwon Jo)
+HackerOne RMS #None Reflected XSS Resolve -Foreign- (Jeongwon Jo)
 ```
 
 ---
