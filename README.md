@@ -7,6 +7,8 @@ Hi there, My name is Jeongwon Jo(Pocas). I'm a newbie studying about web securit
 # Just reported things :)
 
 ```
+Platform Target Report-ID Vulnerability Status Country ( Discoverer )
+----------------------------------------------------------------------
 BugCamp Korea CISSP Main website #None OWASP 2017 A9 Resolve -Korea- (Jeongwon Jo)
 BugCamp Korea CISSP Main website #None Exposure of PHP Error * 2 Resolve -Korea- (Jeongwon Jo)
 HackerOne Meredith #1224657 Open Redirect to Reflected XSS Resolve -Foreign- (Jeongwon Jo)
