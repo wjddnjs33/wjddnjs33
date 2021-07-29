@@ -13,6 +13,9 @@ Web development uses only node.js, flask, django web frameworks to develop back-
 ```
 Platform Target Report-ID Vulnerability Status Country ( Discoverer )
 ----------------------------------------------------------------------
+HackingZone D.share #21180 DELETE Checking -Korea- (Jeongwon Jo)
+HackingZone D.share #20869 DELETE Checking -Korea- (Jeongwon Jo)
+HackingZone D.share #20572 DELETE Checking -Korea- (Jeongwon Jo)
 HackerOne Mail.ru #1274720 Inadequate Encryption Strength Resolve(Informative) -Foreign- (Jeongwon Jo)
 BugCamp wargame.kr #None None Checking -Korea- (Jeongwon Jo)
 BugCamp Korea-CISSP-Main-website #None OWASP-2017-A9 Resolve -Korea- (Jeongwon Jo)
