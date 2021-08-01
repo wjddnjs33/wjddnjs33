@@ -13,6 +13,7 @@ Web development uses only node.js, flask, django web frameworks to develop back-
 ```
 Platform Target Report-ID Vulnerability Status Country ( Discoverer )
 ----------------------------------------------------------------------
+None National-Institute-for-International-Education #None DELETE Checking -Korea- (Jeongwon Jo)
 HackingZone D.share #21180 DELETE Checking -Korea- (Jeongwon Jo)
 HackingZone D.share #20869 DELETE Checking -Korea- (Jeongwon Jo)
 HackingZone D.share #20572 DELETE Checking -Korea- (Jeongwon Jo)
