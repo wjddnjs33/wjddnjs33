@@ -1,14 +1,14 @@
 # Introduce :)
 
 ```
-Hi there, My name is Jeongwon Jo(Pocas). 
-I'm a newbie studying about web security/development and english in Seoul, Republic of Korea. 
-And I sometimes do CTF or Bug Hunting or WEB development. 
-Web development uses only node.js, flask, django web frameworks to develop back-end.
+Hi there, my name is Jeongwon Jo (Pocas). 
+I'm a newbie studying web security/development and English in Seoul, Republic of Korea. 
+I sometimes compete in CTFs, bug hunting, and web development. 
+I am familiar with developing website back-ends in node.js, flask, and django.
 ```
 
 ---
-# Just reported things :)
+# Things I just reported :)
 
 ```
 Platform Target Report-ID Vulnerability Status Country ( Discoverer )
