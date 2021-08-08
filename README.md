@@ -13,7 +13,6 @@ I am familiar with developing website back-ends in node.js, flask, and django.
 ```
 Platform Target Report-ID Vulnerability Status Country ( Discoverer )
 ----------------------------------------------------------------------
-None National-Institute-for-International-Education #None DELETE Checking -Korea- (Jeongwon Jo)
 HackingZone D.share #21180 DELETE Checking -Korea- (Jeongwon Jo)
 HackingZone D.share #20869 DELETE Checking -Korea- (Jeongwon Jo)
 HackingZone D.share #20572 DELETE Checking -Korea- (Jeongwon Jo)
