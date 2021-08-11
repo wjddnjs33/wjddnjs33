@@ -12,17 +12,28 @@ I am familiar with developing website back-ends in node.js, flask, and django.
 
 ```
 Platform Target Report-ID Vulnerability Status Country ( Discoverer )
-----------------------------------------------------------------------
-HackingZone D.share #21180 DELETE Checking -Korea- (Jeongwon Jo)
-HackingZone D.share #20869 DELETE Checking -Korea- (Jeongwon Jo)
-HackingZone D.share #20572 DELETE Checking -Korea- (Jeongwon Jo)
-HackerOne Mail.ru #1274720 Inadequate Encryption Strength Resolve(Informative) -Foreign- (Jeongwon Jo)
-BugCamp wargame.kr #None None Checking -Korea- (Jeongwon Jo)
-BugCamp Korea-CISSP-Main-website #None OWASP-2017-A9 Resolve -Korea- (Jeongwon Jo)
-BugCamp Korea-CISSP-Main-website #None Exposure-of-PHP-Error * 2 Resolve -Korea- (Jeongwon Jo)
-HackerOne Meredith #1224657 Open-Redirect-to-Reflected-XSS Resolve -Foreign- (Jeongwon Jo)
-None Gyeongsang-National-University-University #None Reflected XSS Resolve -Korea- (Jeongwon Jo)
-HackerOne RMS #None Reflected-XSS Resolve -Foreign- (Jeongwon Jo)
+----------------------------------------------------------------------\
+(Web) HackingZone read-it.co.kr #35924 DELETE Checking -Korea- (Jeongwon Jo)
+(Web) HackingZone vocaending.co.kr #35836 DELETE Checking -Korea- (Jeongwon Jo)
+(Web) HackingZone vocaending.co.kr #35748 DELETE Checking -Korea- (Jeongwon Jo)
+(Web) HackingZone vocaending.co.kr #35667 DELETE Checking -Korea- (Jeongwon Jo)
+(Web) HackingZone jejupassrent.com #33303 DELETE Checking -Korea- (Jeongwon Jo)
+(Web) HackingZone jejupassrent.com #33398 DELETE Checking -Korea- (Jeongwon Jo)
+(Web) HackingZone jejupassrent.com #33305 DELETE Checking -Korea- (Jeongwon Jo)
+(Web) HackingZone jejupassrent.com #32344 DELETE Checking -Korea- (Jeongwon Jo)
+(Web) HackingZone jejupassrent.com #32092 DELETE Checking -Korea- (Jeongwon Jo)
+(Web) HackingZone jejupassrent.com #31148 DELETE Checking -Korea- (Jeongwon Jo)
+(Web) HackingZone jejupassrent.com #30791 DELETE Checking -Korea- (Jeongwon Jo)
+(Web) HackingZone jejupassrent.com #30266 DELETE Checking -Korea- (Jeongwon Jo)
+(Web) HackingZone jejupassrent.com #30092 DELETE Checking -Korea- (Jeongwon Jo)
+(Ios) HackingZone vocaending mobile #29325 DELETE Checking -Korea- (Jeongwon Jo)
+(Web) HackerOne Mail.ru #1274720 Inadequate Encryption Strength Resolve(Informative) -Foreign- (Jeongwon Jo)
+(Web) BugCamp wargame.kr #None None Checking -Korea- (Jeongwon Jo)
+(Web) BugCamp Korea-CISSP-Main-website #None OWASP-2017-A9 Resolve -Korea- (Jeongwon Jo)
+(Web) BugCamp Korea-CISSP-Main-website #None Exposure-of-PHP-Error * 2 Resolve -Korea- (Jeongwon Jo)
+(Web) HackerOne Meredith #1224657 Open-Redirect-to-Reflected-XSS Resolve -Foreign- (Jeongwon Jo)
+(Web) None Gyeongsang-National-University-University #None Reflected XSS Resolve -Korea- (Jeongwon Jo)
+(Web) HackerOne RMS #None Reflected-XSS Resolve -Foreign- (Jeongwon Jo)
 ```
 
 ---
