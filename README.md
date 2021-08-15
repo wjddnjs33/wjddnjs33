@@ -9,4 +9,6 @@ I am familiar with developing website back-ends in node.js, flask, and django.
 Bug Report -> https://github.com/Noob-Team-R
 ```
 
+Things I just reported!! -> [https://github.com/Noob-Team-R](https://github.com/Noob-Team-R)
+
 ---
