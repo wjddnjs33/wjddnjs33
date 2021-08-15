@@ -7,6 +7,4 @@ I sometimes compete in CTFs, bug hunting, and web development.
 I am familiar with developing website back-ends in node.js, flask, and django.
 ```
 
-Things I just reported!! -> [https://github.com/Noob-Team-R](https://github.com/Noob-Team-R)
-
 ---
