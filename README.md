@@ -7,7 +7,7 @@ I sometimes compete in CTFs, bug hunting, and web development.
 I am familiar with developing website back-ends in node.js, flask, and django.
 ```
 
-# K-Background
+# Korea-Background
 
 The Ministry of Defense has finally announced the [SLBM](https://www.reuters.com/business/aerospace-defense/skorea-successfully-tests-submarine-launched-ballistic-missile-blue-house-2021-09-15/)!!!! Such growth in national defense power is very important for independently defending the country LoL
 
