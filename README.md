@@ -15,6 +15,6 @@ Ah, and a lot of people like to take off their masks when they get vaccinated. E
 
 In Korea, as of today (09.17), 21,168,093 mouse participated in the experiment. Also, many people died from side effects. The sad feelings of those who died... Well, since the corona vaccine came out without a proper clinical trial, it is only natural that there are more side effects than other vaccines.
 
-Oh, and as of 2021, the South Korean regime was eaten by a North Korean spy^^ this is a very interesting place
+Oh, and as of 2021, the South Korean regime was eaten by a North Korean spy^^ this is a very interesting place!!
 
 ---
